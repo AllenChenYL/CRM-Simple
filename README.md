@@ -3,7 +3,7 @@
   因舍妹開工作室替客人服務紋眉，想要記錄客戶的狀況，原本她使用類似Google表單那種模式，但是彙整成excel讓他覺得資料呈現不夠直觀，
 所以問問我有沒有比較容易整理的方法，問了一些使用情境後給他建議，我寫個小程式使用txt檔案當作資料庫，她自己再將客戶的資料自行輸入，既簡單省錢又解決她的問題。
 ## 程式介面
-<img src="https://github.com/Chen-Yi-Lun/CRM-Simple/blob/main/1.JPG?raw=true" width="600"/>
+<img src="https://github.com/Chen-Yi-Lun/CRM-Simple/blob/main/interface.JPG?raw=true" width="800"/>
 
 ## 功能簡介
 1. 根據電話號碼對客戶作唯一識別
